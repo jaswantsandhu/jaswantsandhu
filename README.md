@@ -23,6 +23,14 @@ Here are some of the projects I've worked on that I'm most proud of. Engage!
  JSON Config-Based UI Framework is a powerful solution built on Angular for dynamically rendering UI components and layouts based on provided data sources and UI configurations. This approach allows developers to create flexible, reusable, and easily maintainable user interfaces with minimal effort.
 
 
+ ### [whereismytrain](https://github.com/jaswantsandhu/whereismytrain) 
+ 
+UK's heartbeat is its train network. How many times have I had to run to catch that last Tube or train to reach my home! However, the most annoying part was having to stop at the station to check the schedule, even when our mobiles are always in our hands. So, here is my new project: an app that provides real-time train schedules, customised for my route.
+
+Now, no more looking at the station’s schedule or opening maps. Real-time information is just one click away.
+
+Checkout at: https://whereismytrain.vercel.app/
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswantsandhu&show_icons=true&theme=tokyonight)
